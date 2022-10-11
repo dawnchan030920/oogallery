@@ -1,0 +1,6 @@
+/.idea
+.idea/
+/lib
+/lib/*.jar
+/out
+/WEB-INF/classes/*.class
